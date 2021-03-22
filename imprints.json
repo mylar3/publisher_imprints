@@ -1,0 +1,366 @@
+{
+   "DC Comics":[
+      {
+         "name":"All Star DC Comics",
+         "publication_run":"2006.11 - 2008.12"
+      },
+      {
+         "name":"Amalgam Comics",
+         "publication_run":"1996.01 - 1997.12"
+      },
+      {
+         "name":"Black Label",
+         "publication_run":"2018.09 - "
+      },
+      {
+         "name":"CMX",
+         "publication_run":"2001.01 - 2010.07"
+      },
+      {
+         "name":"DC Archives Edition",
+         "production_run":""
+      },
+      {
+         "name":"DC Focus",
+         "publication_run":"2004.01 - 2005.12"
+      },
+      {
+         "name":"DC Ink",
+         "publication_run":"2018.09 - "
+      },
+      {
+         "name":"DC Zoom",
+         "publication_run":"2018.02 - "
+      },
+      {
+         "name":"Earth One",
+         "publication_run":"2009.01 - "
+      },
+      {
+         "name":"Edge",
+         "publication_run":"2011.09 - "
+      },
+      {
+         "name":"Elseworlds",
+         "publication_run":"1989.11 - 2010.12"
+      },
+      {
+         "name":"First Wave",
+         "publication_run":"2009.01 - 2012.12"
+      },
+      {
+         "name":"Hanna-Barbera Beyond",
+         "publication_run":"2009.08 - 2011.07"
+      },
+      {
+         "name":"Helix",
+         "publication_run":"1996.07 - 1998.12"
+      },
+      {
+         "name":"Impact Comics",
+         "publication_run":"1991.07 - 1993.12"
+      },
+      {
+         "name":"Johnny DC",
+         "publication_run":"2004.10 - 2012.12"
+      },
+      {
+         "name":"Milestone Comics",
+         "publication_run":"1993.01 - "
+      },
+      {
+         "name":"Minx",
+         "publication_run":"2007.01 - 2008.10"
+      },
+      {
+         "name":"Paradox Press",
+         "publication_run":"1994.01 - 2001.12"
+      },
+      {
+         "name":"Piranha Press",
+         "publication_run":"1987.01 - 1994.12"
+      },
+      {
+         "name":"Red Circle",
+         "publication_run":"2009.01- 2011.07"
+      },
+      {
+         "name":"Tangent Comics",
+         "publication_run":"1997.01- 2008.01"
+      },
+      {
+         "name":"The New Age of Heroes",
+         "publication_run":"2017.08 - "
+      },
+      {
+         "name":"TSR",
+         "publication_run":"1989.08 - 1991.10"
+      },
+      {
+         "name":"Vertigo",
+         "publication_run":"1993.01 - 2020.12"
+      },
+      {
+         "name":"WildStorm",
+         "publication_run":"1999.01 - 2010.12"
+      },
+      {
+         "name":"Wonder Comics",
+         "publication_run":"2018.02 - "
+      },
+      {
+         "name":"Young Animal",
+         "publication_run":"2016.04 - "
+      },
+      {
+         "name":"Zuda Comics",
+         "publication_run":"1997.07 - 2010.10"
+      }
+   ],
+   "Marvel Comics":[
+      {
+         "name":"Amalgam Comics",
+         "publication_run":""
+      },
+      {
+         "name":"CrossGen",
+         "publication_run":""
+      },
+      {
+         "name":"Disney Kingdoms",
+         "publication_run":""
+      },
+      {
+         "name":"Epic Comics",
+         "publication_run":""
+      },
+      {
+         "name":"Icon Comics",
+         "publication_run":""
+      },
+      {
+         "name":"Infinite Comics",
+         "publication_run":""
+      },
+      {
+         "name":"Malibu Comics",
+         "publication_run":""
+      },
+      {
+         "name":"Marvel 2099",
+         "publication_run":""
+      },
+      {
+         "name":"Marvel Absurd",
+         "publication_run":""
+      },
+      {
+         "name":"Marvel Age/Adventures",
+         "publication_run":""
+      },
+      {
+         "name":"Marvel Books",
+         "publication_run":""
+      },
+      {
+         "name":"Marvel Edge",
+         "publication_run":""
+      },
+      {
+         "name":"Marvel Knights",
+         "publication_run":""
+      },
+      {
+         "name":"Marvel Illustrated",
+         "publication_run":""
+      },
+      {
+         "name":"Marvel Mangaverse",
+         "publication_run":""
+      },
+      {
+         "name":"Marvel Music",
+         "publication_run":""
+      },
+      {
+         "name":"Marvel Next",
+         "publication_run":""
+      },
+      {
+         "name":"Marvel Noir",
+         "publication_run":""
+      },
+      {
+         "name":"Marvel UK",
+         "publication_run":""
+      },
+      {
+         "name":"MAX",
+         "publication_run":""
+      },
+      {
+         "name":"MC2",
+         "publication_run":""
+      },
+      {
+         "name":"New Universe",
+         "publication_run":""
+      },
+      {
+         "name":"Paramount Comics",
+         "publication_run":""
+      },
+      {
+         "name":"Razorline",
+         "publication_run":""
+      },
+      {
+         "name":"Star Comics",
+         "publication_run":""
+      },
+      {
+         "name":"Timely Comics",
+         "publication_run":""
+      },
+      {
+         "name":"Tsunami",
+         "publication_run":""
+      },
+      {
+         "name":"Ultimate Comics",
+         "publication_run":""
+      }
+   ],
+   "Archie Comics":[
+      {
+         "name":"Archie Action",
+         "publication_run":"1993.01 - "
+      },
+      {
+         "name":"Archie Adventure Series",
+         "publication_run":[
+            {
+               "run":"1959.01 - 1966.12"
+            },
+            {
+               "run":"1988.01 - 1995.12"
+            }
+         ]
+      },
+      {
+         "name":"Archie Horror",
+         "publication_run":"2013.01 - "
+      },
+      {
+         "name":"Dark Circle Comics",
+         "publication_run":"2015.01 - "
+      },
+      {
+         "name":"Mighty Comics",
+         "publication_run":"1965.01 - 1967.12"
+      },
+      {
+         "name":"Red Circle Comics",
+         "publication_run":"2012.08 - 2014.03"
+      },
+      {
+         "name":"Radio Comics",
+         "publication_run":"1965.01 - 1967.12"
+      },
+      {
+         "name":"Stan Lee Comics",
+         "publication_run":"2012.03 - 2012.09"
+      }
+   ],
+   "Dark Horse Comics":[
+      {
+         "name":"Comics Greatest World",
+         "publication_run":"1993.01 - 1996.12"
+      },
+      {
+         "name":"Dark Horse Heroes",
+         "publication_run":"1993.01 - 1996.12"
+      },
+      {
+         "name":"Legend",
+         "publication_run":"1994.01 - 1998.12"
+      },
+      {
+         "name":"Dark Horse Manga",
+         "publication_run":"2000.01 - 2005.12"
+      },
+      {
+         "name":"Maverick",
+         "publication_run":"1999.01 - 2002.12"
+      },
+      {
+         "name":"Project Black Sky",
+         "publication_run":"2010.01 - "
+      },
+      {
+         "name":"Rocket Comics",
+         "publication_run":"2003.01 - "
+      },
+      {
+         "name":"Dark Horse Digital",
+         "publication_run":"2011.01 - "
+      },
+      {
+         "name":"Kitchen Sink Books",
+         "publication_run":"2013.01 - "
+      }
+   ],
+   "Image Comics":[
+      {
+         "name":"Avalon Studios",
+         "publication_run":""
+      },
+      {
+         "name":"Desperado Publishing",
+         "publication_run":""
+      },
+      {
+         "name":"Extreme Studios",
+         "publication_run":"1997.01 - 2000.12"
+      },
+      {
+         "name":"Gorilla Comics",
+         "publication_run":""
+      },
+      {
+         "name":"Highbrow Entertainment",
+         "publication_run":"1992.01 - "
+      },
+      {
+         "name":"Shadowline",
+         "publication_run":"1994.10 - "
+      },
+      {
+         "name":"Skybound Entertainment",
+         "publication_run":"2010.01 - "
+      },
+      {
+         "name":"Todd McFarlane Productions",
+         "publication_run":"1992.01 - "
+      },
+      {
+         "name":"Top Cow Productions",
+         "publication_run":"1992.01 - "
+      },
+      {
+         "name":"WildStorm",
+         "publication_run":"1992 - 1999.01",
+         "imprints":[
+            {
+               "name":"America's Best Comics"
+            },
+            {
+               "name":"Cliffhanger"
+            },
+            {
+               "name":"Homage"
+            }
+         ]
+      }
+   ]
+}
