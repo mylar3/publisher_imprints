@@ -1,2 +1,2 @@
 # publisher_imprints
-publisher imprint listing for use with Mylar3
+publisher imprint listing in .json format
