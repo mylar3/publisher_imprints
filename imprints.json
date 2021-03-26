@@ -1,5 +1,5 @@
 {
-   "version":"1.0",
+   "version":"1.1",
    "publishers":[
       {
          "DC Comics":[
@@ -22,6 +22,18 @@
             {
                "name":"DC Archives Edition",
                "production_run":""
+            },
+            {
+               "name":"DC Black Label",
+               "publication_run":"2018.09 - ",
+               "imprints":[
+                  {
+                     "name":"Sandman Universe"
+                  },
+                  {
+                     "name":"Hill House Comics"
+                  }
+               ]
             },
             {
                "name":"DC Focus",
@@ -105,7 +117,21 @@
             },
             {
                "name":"WildStorm",
-               "publication_run":"1999.01 - 2010.12"
+               "publication_run":"1999.01 - 2010.12",
+               "imprints":[
+                  {
+                     "name":"America's Best Comics"
+                  },
+                  {
+                     "name":"Cliffhanger"
+                  },
+                  {
+                     "name":"Homage"
+                  },
+                  {
+                     "name":"WildStorm Signature"
+                  }
+               ]
             },
             {
                "name":"Wonder Comics",
@@ -125,11 +151,11 @@
          "Marvel Comics":[
             {
                "name":"Amalgam Comics",
-               "publication_run":""
+               "publication_run":"1996.01 - 1997.12"
             },
             {
                "name":"CrossGen",
-               "publication_run":""
+               "publication_run":"2004.11 - 2011.08"
             },
             {
                "name":"Disney Kingdoms",
@@ -137,103 +163,103 @@
             },
             {
                "name":"Epic Comics",
-               "publication_run":""
+               "publication_run":"1982.01 - 01.2004"
             },
             {
                "name":"Icon Comics",
-               "publication_run":""
+               "publication_run":"2004.01 - "
             },
             {
                "name":"Infinite Comics",
-               "publication_run":""
+               "publication_run":"2012.01 - "
             },
             {
                "name":"Malibu Comics",
-               "publication_run":""
+               "publication_run":"1994.03 - "
             },
             {
                "name":"Marvel 2099",
-               "publication_run":""
+               "publication_run":"1992.01 - 1998.03"
             },
             {
                "name":"Marvel Absurd",
-               "publication_run":""
+               "publication_run":"1994.03 - 1996.06"
             },
             {
-               "name":"Marvel Age/Adventures",
-               "publication_run":""
+               "name":"Marvel Age",
+               "publication_run":"2003.01 -2005.03"
             },
             {
-               "name":"Marvel Books",
-               "publication_run":""
+               "name":"Marvel Adventures",
+               "publication_run":"2005.04 - 2012.03"
             },
             {
                "name":"Marvel Edge",
-               "publication_run":""
+               "publication_run":"1995.09 - 1996.05"
             },
             {
                "name":"Marvel Knights",
-               "publication_run":""
+               "publication_run":"11.1998 - "
             },
             {
                "name":"Marvel Illustrated",
-               "publication_run":""
+               "publication_run":"2007.07 - 2013.12"
             },
             {
                "name":"Marvel Mangaverse",
-               "publication_run":""
+               "publication_run":"2002.06 - 2006.04"
             },
             {
                "name":"Marvel Music",
-               "publication_run":""
+               "publication_run":"1994.01 - 1995.12"
             },
             {
                "name":"Marvel Next",
-               "publication_run":""
+               "publication_run":"2005.01 - "
             },
             {
                "name":"Marvel Noir",
-               "publication_run":""
+               "publication_run":"2009.02 - 2010.10"
             },
             {
                "name":"Marvel UK",
-               "publication_run":""
+               "publication_run":"1972.01 - 1995.12"
             },
             {
                "name":"MAX",
-               "publication_run":""
+               "publication_run":"21.2001 - "
             },
             {
                "name":"MC2",
-               "publication_run":""
+               "publication_run":"1998.02 - "
             },
             {
                "name":"New Universe",
-               "publication_run":""
+               "publication_run":"1986.01 - 1989.12"
             },
             {
                "name":"Paramount Comics",
-               "publication_run":""
+               "publication_run":"1996.01 - 1998.12"
             },
             {
                "name":"Razorline",
-               "publication_run":""
+               "publication_run":"1993.01 - 1995.12"
             },
             {
                "name":"Star Comics",
-               "publication_run":""
+               "publication_run":"1984.01 - 1988.12"
             },
             {
                "name":"Timely Comics",
-               "publication_run":""
+               "publication_run":"2016.01"
             },
             {
                "name":"Tsunami",
-               "publication_run":""
+               "publication_run":"2003.01 - 2003.12"
             },
             {
                "name":"Ultimate Comics",
-               "publication_run":""
+               "publication_run":"2000.01 - 2015.12"
             }
          ]
       },
@@ -372,6 +398,38 @@
                      "name":"Homage"
                   }
                ]
+            }
+         ]
+      },
+      {
+         "Malibu Comics":[
+            {
+               "name":"Adventure Publications",
+               "publication_run":""
+            },
+            {
+               "name":"Aircel Comics",
+               "publication_run":""
+            },
+            {
+               "name":"Bravura",
+               "publication_run":""
+            },
+            {
+               "name":"Eternity Comics",
+               "publication_run":""
+            },
+            {
+               "name":"Genesis",
+               "publication_run":""
+            },
+            {
+               "name":"Rock-It-Comix",
+               "publication_run":""
+            },
+            {
+               "name":"Ultraverse",
+               "publication_run":""
             }
          ]
       }
