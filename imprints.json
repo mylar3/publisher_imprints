@@ -1,5 +1,5 @@
 {
-   "version":"1.2",
+   "version":"1.2.1",
    "publishers":[
       {
          "DC Comics":[
@@ -163,7 +163,7 @@
             },
             {
                "name":"Epic Comics",
-               "publication_run":"1982.01 - 01.2004"
+               "publication_run":"1982.01 - 2004.01"
             },
             {
                "name":"Icon Comics",
@@ -199,7 +199,7 @@
             },
             {
                "name":"Marvel Knights",
-               "publication_run":"11.1998 - "
+               "publication_run":"1998.11 - 2011.02"
             },
             {
                "name":"Marvel Illustrated",
@@ -227,7 +227,7 @@
             },
             {
                "name":"MAX",
-               "publication_run":"21.2001 - "
+               "publication_run":"2001.09 - "
             },
             {
                "name":"MC2",
